@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Great professor, explains concepts clearly and is very approachable."
+    },
+    {
+      "professor": "Prof. Emily Johnson",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Amazing teacher! Her lectures are well-organized and easy to follow."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "The class was tough, but he knows his stuff. Be prepared to study hard."
+    },
+    {
+      "professor": "Prof. Sarah Lee",
+      "subject": "Biology",
+      "stars": 2,
+      "review": "Lectures can be boring, and the material is not well-organized."
+    },
+    {
+      "professor": "Dr. David Wilson",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Very enthusiastic about the subject and makes the lectures interesting."
+    },
+    {
+      "professor": "Prof. Linda Davis",
+      "subject": "History",
+      "stars": 4,
+      "review": "Good professor, but the exams are a bit challenging."
+    },
+    {
+      "professor": "Dr. Karen Martinez",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Decent professor, but sometimes hard to follow."
+    },
+    {
+      "professor": "Prof. James Garcia",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Engaging lecturer with real-world examples that make the material relatable."
+    },
+    {
+      "professor": "Dr. Patricia Miller",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Excellent professor, very knowledgeable and passionate about literature."
+    },
+    {
+      "professor": "Prof. Robert Gonzalez",
+      "subject": "Philosophy",
+      "stars": 2,
+      "review": "The lectures are too abstract, and the grading is harsh."
+    },
+    {
+      "professor": "Dr. Barbara Hernandez",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Interesting topics, but sometimes difficult to stay engaged."
+    },
+    {
+      "professor": "Prof. William Clark",
+      "subject": "Art History",
+      "stars": 4,
+      "review": "Good professor, provides great insights into the art world."
+    },
+    {
+      "professor": "Dr. Susan Rodriguez",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Fantastic professor, makes complex topics easy to understand."
+    },
+    {
+      "professor": "Prof. Richard Lewis",
+      "subject": "Engineering",
+      "stars": 3,
+      "review": "The material is very technical, and the lectures can be dry."
+    },
+    {
+      "professor": "Dr. Elizabeth Walker",
+      "subject": "Linguistics",
+      "stars": 4,
+      "review": "Very knowledgeable and approachable, but sometimes speaks too fast."
+    },
+    {
+      "professor": "Prof. Charles Young",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Incredibly interesting lectures, and the professor is very engaging."
+    },
+    {
+      "professor": "Dr. Jennifer King",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Great professor, but the workload is heavy."
+    },
+    {
+      "professor": "Prof. Paul Wright",
+      "subject": "Business Administration",
+      "stars": 3,
+      "review": "Good professor, but the grading is very strict."
+    },
+    {
+      "professor": "Dr. Nancy Scott",
+      "subject": "Nursing",
+      "stars": 5,
+      "review": "Very caring and supportive, and provides valuable real-world advice."
+    },
+    {
+      "professor": "Prof. Donald Green",
+      "subject": "Geology",
+      "stars": 4,
+      "review": "Interesting lectures, but the exams are difficult."
+    }
+  ]
+}
