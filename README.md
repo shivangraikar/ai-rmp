@@ -37,4 +37,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 TEXT_EMBEDDING:
 
-SENTENCE-TRANSFORMERS: https://sbert.net/
+Sentence-Transformers:
+
+1. Create Conda env with version python 3.10.14 ----> conda create -n rag python=3.10.14
+2. Get pinecone api key from "https://www.pinecone.io/"
+3. Install requirements.txt file
+
+P.S:
+
+- YOU MIGHT HAVE TO DOWNGRADE NUMPY TO " PIP INSTALL NUMPY<2.0 " FOR THE EMBEDDING MODEL TO WORK
+- YOU MIGHT ALSO HAVE TO INSTALL A DEPENDENCY RELATED TO FBGEMM.DLL FOR THE SENTENCE-TRANSFORMERS IMPORT
