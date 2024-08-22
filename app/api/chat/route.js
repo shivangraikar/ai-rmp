@@ -54,7 +54,7 @@ export async function POST(req) {
 
   const text = data[data.length - 1].content;
   const embedding = await openai.embeddings.create({
-    model: SentenceTransformer("all-MiniLM-L6-v2"),
+    model: 'text-embedding-3-small',
     input: text,
     encoding_format: "float",
   });
